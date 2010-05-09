@@ -1,4 +1,8 @@
 [ {"section":"title"},
   {"section":"about-me"},
-  {"section":"virtualization"}
+  {"section":"virtualization"},
+  {"section":"outage-email"},
+  {"section":"fault-tolerance"},
+  {"section":"evaluating-options"},
+  {"section":"ending"}
 ]

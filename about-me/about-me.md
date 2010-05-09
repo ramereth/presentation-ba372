@@ -6,11 +6,11 @@
 
 # Lance Albertson #
 
-!SLIDE full-page
+!SLIDE center
 
-![osuosl](osllogo.png)
+![osuosl](osllogo.jpg)
 
-!SLIDE bullets
+!SLIDE bullets incremental
 
 * System Administrator / System Architect
 * Provide hosting for open source projects

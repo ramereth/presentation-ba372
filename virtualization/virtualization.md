@@ -4,7 +4,7 @@
 
 !SLIDE subsection
 
-# Overview #
+## Overview ##
 
 !SLIDE
 
@@ -14,9 +14,9 @@
 
 !SLIDE subsection
 
-# Benefits of Virtualization #
+## Benefits of Virtualization ##
 
-!SLIDE bullets incremental
+!SLIDE smbullets incremental
 
 * More machine utilization
 * Less overhead
@@ -26,7 +26,7 @@
 
 !SLIDE subsection
 
-# How Virtualization works #
+## How Virtualization works ##
 
 !SLIDE
 
@@ -40,7 +40,7 @@
 
 !SLIDE subsection
 
-# Virtualization Technologies #
+## Virtualization Technologies ##
 
 !SLIDE
 
@@ -54,9 +54,11 @@
 
 !SLIDE subsection
 
-# How it helps the Open Source Lab #
+## How it helps the Open Source Lab ##
 
-!SLIDE incremental
+!SLIDE bullets incremental
 
-* Host more projects with less
-* More redudancy
+* Host more projects with less resources
+* Offer full Operating System 
+* Fast deployment
+* More redundancy
