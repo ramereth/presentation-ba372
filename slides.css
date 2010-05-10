@@ -5,7 +5,20 @@ h1, h2, h3, h4, h5, h6, .slide {
     font-family: Junction, Helvetica, Arial, sans-serif;
 }
 
-code { font-family: Monaco, Courier; }
+code {
+    font-family: monospace;
+}
+
+pre {
+    font-size: 20pt;
+    margin-right: 40px;
+    margin-left: 40px;
+    padding-bottom: 10px;
+    padding: 10px 20px;
+    background: rgba(255, 0, 0, 0.05);
+    border-radius: 8px;
+    border: 1px solid rgba(255, 0, 0, 0.2);
+}
 
 body {
     background: #778;
@@ -26,6 +39,7 @@ body {
 }
 
 #preso, .center {
+    top: 10%;
     width: 900px;
     height: 700px;
 }
@@ -33,13 +47,19 @@ body {
 .subsection {
     background: #008 -webkit-gradient(linear, 0% 0%, 0% 100%, from(#008), to(#009));
     background-color: #008;
+    font-family: 'Junction';
+    padding: 6px 10px 3px 10px;
+    line-height: 30px;
+    text-shadow: none;
+    letter-spacing: 0;
+    bottom: 10px;
+    position: relative;
     border-radius: 10px;
     -moz-border-radius: 10px;
     -webkit-border-radius: 10px;
     box-shadow: rgba(0, 0, 0, 0.1) 0 2px 5px;
     -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0 2px 5px;
     -moz-box-shadow: rgba(0, 0, 0, 0.1) 0 2px 5px;
-
 }
 
 #preso {
@@ -55,4 +75,9 @@ body {
 }
     
 
-#footer { width: 900px; padding: 0px ;}
+#footer { 
+    position: relative;
+    width: 900px;
+    padding: 0px;
+    top: 10%;
+}
