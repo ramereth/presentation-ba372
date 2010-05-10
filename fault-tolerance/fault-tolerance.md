@@ -1,10 +1,6 @@
-!SLIDE
-
-# Fault Tolerance #
-
 !SLIDE bullets incremental
 
-# Overview #
+# Fault Tolerance #
 
 * Ability to deal with hardware or software outages
 * Easily bring service back online with no data loss

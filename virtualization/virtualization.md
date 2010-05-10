@@ -11,9 +11,9 @@
 # Benefits of Virtualization #
 
 * More machine utilization
-* Less overhead
+* Reduce resource overhead
 * Faster & easier to deploy
-* Reduces cost (do more with less)
+* Reduces overall cost
 * Tailor usage requirements more efficiently
 
 !SLIDE bullets incremental
@@ -23,6 +23,7 @@
 * Core component of virtualization
 * Software that controls virtual machines
 * Emulates a hardware environment
+* Layer between hardware and virtual machine
 
 !SLIDE center
 
@@ -48,6 +49,6 @@
 # How it helps the OSL #
 
 * Host more projects with less resources
-* Offer full Operating System 
+* Reduces cooling and power overhead
 * Fast deployment
 * More redundancy

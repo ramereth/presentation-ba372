@@ -36,4 +36,4 @@
 * Upgrade hardware (RAM/Disks)
 * 14 machines to 4 machines
 * No expensive disk backend
-* Cheap to extend
+* Low cost to extend

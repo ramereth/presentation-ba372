@@ -2,6 +2,15 @@
 
 # Outage Email #
 
+!SLIDE bullets incremental
+
+# Outage Email: Overview #
+
+* Series of virtual machine outages
+* Sent out email to all affected projects
+* Listed reason for outage
+* Also listed new solution
+
 !SLIDE code
 
 From: Lance Albertson
@@ -27,7 +36,11 @@ nice perk is faster deployment.
 
 [1] http://code.google.com/p/ganeti/
 
+contd ...
+
 !SLIDE code
+
+contd ...
 
 We currently have a cluster of around 14 IBM blades that act
 as the dom0, and two iscsi disk backend servers which those
@@ -56,25 +69,9 @@ please let me know. We're still a ways away from that point,
 but I'm confident we'll finally get all these silly problems
 behind us soon.
 
-I thank you for your patience and I apologize again for
-these outages.  We're working as fast as we can to deploy
-the new cluster. If you'd like to chat with us more about,
-feel free find me in #osuosl (Ramereth). I'm going to be
-offline most of today and this weekend, but should be around
-all of next week.
-
 !SLIDE bullets incremental
 
-# Overview #
-
-* Series of virtual machine outages
-* Sent out email to all hosted projects
-* Listed reason for outage
-* Also listed new solution
-
-!SLIDE
-
-# Outage section #
+# Outage Portion #
 
     We had yet another odd outage with one of our
     iSCSI hosts this morning that forced me to
@@ -83,10 +80,6 @@ all of next week.
     logs that explain what happened other than
     the load spiked and then everything on the
     box essentially stopped.
-
-!SLIDE bullets incremental
-
-# Explanation #
 
 * Storage backend failed causing the outage
 * 35 virtual machines went down
@@ -107,9 +100,9 @@ all of next week.
 
 ![xen-infra](xen-infra.png)
 
-!SLIDE
+!SLIDE smbullets incremental
 
-# Solution Section #
+# Solution Portion #
 
     So while I'm at it, I'm going to at least
     mention what we've been working on as our
@@ -125,10 +118,6 @@ all of next week.
     to expand our virtualization environment with
     lower costs and cheaper hardware. The other
     nice perk is faster deployment.
-
-!SLIDE bullets incremental
-
-# Explanation #
 
 * Storage
 * Hypervisor
