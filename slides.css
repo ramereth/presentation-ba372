@@ -8,6 +8,8 @@ h1, h2, h3, h4, h5, h6, .slide {
 .code {
     font-family: monospace;
     font-size: 18pt;
+    margin-right: 20px;
+    margin-left: 20px;
 }
 
 pre {
