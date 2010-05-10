@@ -2,7 +2,7 @@
 
 # Evaluating Options #
 
-!SLIDE bullets
+!SLIDE bullets incremental
 
 # Procedure #
 
@@ -12,7 +12,7 @@
 * Test
 * Migrate
 
-!SLIDE bullets
+!SLIDE bullets incremental
 
 # Our requirements #
 
@@ -29,7 +29,7 @@
 * Libvirt + oVirt
 * Custom
 
-!SLIDE bullets
+!SLIDE bullets incremental
 
 # Cost #
 

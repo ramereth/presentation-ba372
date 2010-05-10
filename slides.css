@@ -5,8 +5,9 @@ h1, h2, h3, h4, h5, h6, .slide {
     font-family: Junction, Helvetica, Arial, sans-serif;
 }
 
-code {
+.code {
     font-family: monospace;
+    font-size: 18pt;
 }
 
 pre {
@@ -29,7 +30,7 @@ body {
 
 .slide {
     width: 900px;
-    height: 700px;
+    height: 800px;
     left: 50%;
     top: 50%;
     position: absolute;
@@ -39,9 +40,9 @@ body {
 }
 
 #preso, .center {
-    top: 10%;
+    top: 5%;
     width: 900px;
-    height: 700px;
+    height: 800px;
 }
 
 .subsection {
@@ -79,5 +80,13 @@ body {
     position: relative;
     width: 900px;
     padding: 0px;
-    top: 10%;
+    top: 5%;
 }
+
+.center img:first-child {
+  position: relative;
+  width: 80%;
+  /* Set the height dynamically depending on the image's current width, keeping the aspect ratio */
+  height: auto;
+}
+

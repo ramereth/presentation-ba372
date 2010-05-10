@@ -2,7 +2,7 @@
 
 # Fault Tolerance #
 
-!SLIDE bullets
+!SLIDE bullets incremental
 
 # Overview #
 
@@ -10,7 +10,7 @@
 * Easily bring service back online with no data loss
 * Make services more rebust to outages
 
-!SLIDE bullets
+!SLIDE bullets incremental
 
 # Components of Fault Tolerance #
 
@@ -18,13 +18,13 @@
 * Machine
 * Network
 
-!SLIDE
+!SLIDE center
 
-# Xen fault tolerance #
+# Xen Fault Tolerance #
 
-## image ##
+![xen-fault](xen-infra-fault.png)
 
-!SLIDE bullets
+!SLIDE bullets incremental
 
 # Xen fault tolerance #
 
@@ -33,13 +33,13 @@
 * Old hardware
 * No easily scalable
 
-!SLIDE
+!SLIDE center
 
 # Ganeti fault tolerance #
 
-## image ##
+![ganeti-fault](ganeti-infra-fault.png)
 
-!SLIDE bullets
+!SLIDE bullets incremental
 
 # Ganeti fault tolerance #
 

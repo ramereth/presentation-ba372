@@ -1,62 +1,51 @@
-!SLIDE
+!SLIDE center
 
-# Virtualization #
+# Virtualization Overview#
 
-!SLIDE subsection
+## Multiple "machines" on one physical machine ##
 
-## Overview ##
-
-!SLIDE
-
-# Multiple "machines" on one physical machine #
-
-## show vm image ##
-
-!SLIDE subsection
-
-## Benefits of Virtualization ##
+![vm image](vm.png)
 
 !SLIDE smbullets incremental
+
+# Benefits of Virtualization #
 
 * More machine utilization
 * Less overhead
 * Faster & easier to deploy
 * Reduces cost (do more with less)
-* Taylor usage requirements more efficently
-
-!SLIDE subsection
-
-## How Virtualization works ##
-
-!SLIDE
-
-# Hypervisor #
-## Software that controls virtual machines ##
-## Emulates a hardware environment ##
-
-!SLIDE 
-
-## show hypervisor image ##
-
-!SLIDE subsection
-
-## Virtualization Technologies ##
-
-!SLIDE
-
-# Commercial #
-## VMWare ##
-## Hyper-V (Microsoft) ##
-# Free #
-## Xen ##
-## KVM ##
-## VirtualBox ##
-
-!SLIDE subsection
-
-## How it helps the Open Source Lab ##
+* Tailor usage requirements more efficently
 
 !SLIDE bullets incremental
+
+# Hypervisor #
+
+* Core component of virtualization
+* Software that controls virtual machines
+* Emulates a hardware environment
+
+!SLIDE center
+
+# Hypervisor #
+
+![hypervisor](hypervisor.png)
+
+!SLIDE smbullets
+
+# VM Technologies #
+
+## Commercial ##
+* VMWare
+* Hyper-V (Microsoft)
+
+## Free ##
+* Xen
+* KVM
+* VirtualBox
+
+!SLIDE bullets incremental
+
+# How it helps the OSL #
 
 * Host more projects with less resources
 * Offer full Operating System 
