@@ -1,0 +1,58 @@
+@font-face { font-family: 'Junction'; src: url(fonts/Junction02.otf); }
+@font-face { font-family: 'LeagueGothic'; src: url(fonts/LeagueGothic.otf); }
+
+h1, h2, h3, h4, h5, h6, .slide {
+    font-family: Junction, Helvetica, Arial, sans-serif;
+}
+
+code { font-family: Monaco, Courier; }
+
+body {
+    background: #778;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+.slide {
+    width: 900px;
+    height: 700px;
+    left: 50%;
+    top: 50%;
+    position: absolute;
+    background-color: none;
+    background: none;
+    border: none
+}
+
+#preso, .center {
+    width: 900px;
+    height: 700px;
+}
+
+.subsection {
+    background: #008 -webkit-gradient(linear, 0% 0%, 0% 100%, from(#008), to(#009));
+    background-color: #008;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0 2px 5px;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0 2px 5px;
+    -moz-box-shadow: rgba(0, 0, 0, 0.1) 0 2px 5px;
+
+}
+
+#preso {
+    background: -webkit-gradient(linear, left bottom, left top, from(#bbd), to(#fff));
+    background-color: #eee;
+    background: -moz-linear-gradient(bottom, #bbd, #fff);
+    border-top-left-radius: 20px;
+    -moz-border-radius-topleft: 20px;
+    -webkit-border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    -moz-border-radius-bottomright: 20px;
+    -webkit-border-bottom-right-radius: 20px;
+}
+    
+
+#footer { width: 900px; padding: 0px ;}
