@@ -17,7 +17,7 @@
 # Our requirements #
 
 * Disk storage fault tolerance
-* Easily scalible
+* Easily scalable
 * Easy to deploy new virtual machines
 * Easy to deal with outages
 

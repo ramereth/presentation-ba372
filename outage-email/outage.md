@@ -86,7 +86,7 @@ all of next week.
 
 !SLIDE bullets incremental
 
-# Explaination #
+# Explanation #
 
 * Storage backend failed causing the outage
 * 35 virtual machines went down
@@ -128,7 +128,7 @@ all of next week.
 
 !SLIDE bullets incremental
 
-# Explaination #
+# Explanation #
 
 * Storage
 * Hypervisor

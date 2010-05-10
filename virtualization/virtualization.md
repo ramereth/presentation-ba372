@@ -14,7 +14,7 @@
 * Less overhead
 * Faster & easier to deploy
 * Reduces cost (do more with less)
-* Tailor usage requirements more efficently
+* Tailor usage requirements more efficiently
 
 !SLIDE bullets incremental
 

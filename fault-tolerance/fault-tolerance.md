@@ -8,7 +8,7 @@
 
 * Ability to deal with hardware or software outages
 * Easily bring service back online with no data loss
-* Make services more rebust to outages
+* Make services more robust to outages
 
 !SLIDE bullets incremental
 
