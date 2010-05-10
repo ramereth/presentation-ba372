@@ -7,5 +7,7 @@
 
 # Contact me #
 
-## lance@osuosl.org ##
-## @ramereth on twitter ##
+## Lance Albertson ##
+### lance@osuosl.org ###
+### http://www.lancealbertson.com ###
+### http://twitter.com/ramereth ###

@@ -10,13 +10,14 @@
 * Establish requirements
 * Research
 * Test
-* Migrate
+* Migration Plan
 
 !SLIDE bullets incremental
 
 # Our requirements #
 
 * Disk storage fault tolerance
+* Faster disk I/O
 * Easily scalable
 * Easy to deploy new virtual machines
 * Easy to deal with outages
@@ -34,6 +35,6 @@
 # Cost #
 
 * Upgrade hardware (RAM/Disks)
-* 14 machines to 4 machines
+* 16 machines to 4 machines
 * No expensive disk backend
 * Low cost to extend

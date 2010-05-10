@@ -11,8 +11,8 @@
 # Components of Fault Tolerance #
 
 * Disk Storage (RAID / Clustered storage backends)
-* Machine
-* Network
+* Multiple Machine
+* Network paths
 
 !SLIDE center
 
@@ -27,7 +27,7 @@
 * Disk nodes had no redundant system
 * Lack of adequate management software
 * Old hardware
-* No easily scalable
+* Difficult & Expensive to scale
 
 !SLIDE center
 
@@ -39,7 +39,7 @@
 
 # Ganeti fault tolerance #
 
-* Each node has storage replicated
+* Each node has storage replicated using DRBD
 * Centralized management software
 * Newer hardware
 * Very easy to scale

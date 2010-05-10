@@ -12,8 +12,8 @@
 
 * More machine utilization
 * Reduce resource overhead
-* Faster & easier to deploy
 * Reduces overall cost
+* Faster & easier to deploy
 * Tailor usage requirements more efficiently
 
 !SLIDE bullets incremental
@@ -21,9 +21,9 @@
 # Hypervisor #
 
 * Core component of virtualization
+* Layer between hardware and virtual machine
 * Software that controls virtual machines
 * Emulates a hardware environment
-* Layer between hardware and virtual machine
 
 !SLIDE center
 
@@ -51,4 +51,4 @@
 * Host more projects with less resources
 * Reduces cooling and power overhead
 * Fast deployment
-* More redundancy
+* More flexibility

@@ -1,10 +1,6 @@
-!SLIDE
-
-# Outage Email #
-
 !SLIDE bullets incremental
 
-# Outage Email: Overview #
+# Outage Email #
 
 * Series of virtual machine outages
 * Sent out email to all affected projects
@@ -83,11 +79,11 @@ behind us soon.
 
 * Storage backend failed causing the outage
 * 35 virtual machines went down
-* No information in the system logs
+* Little information in the system logs
 
 !SLIDE bullets incremental
 
-# Why does this not work well? #
+# Why does this not work? #
 
 * Single point of failure with disk nodes
 * Too many machines per disk node
@@ -122,7 +118,7 @@ behind us soon.
 * Storage
 * Hypervisor
 * Management software
-* Hardware
+* Deployment
 
 !SLIDE smbullets incremental
 
