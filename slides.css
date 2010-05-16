@@ -31,7 +31,7 @@ body {
 }
 
 .slide {
-    width: 900px;
+    width: 1020px;
     height: 800px;
     left: 50%;
     top: 50%;
@@ -42,8 +42,8 @@ body {
 }
 
 #preso, .center {
-    top: 5%;
-    width: 900px;
+    top: 2.5%;
+    width: 1020px;
     height: 800px;
 }
 
@@ -80,9 +80,9 @@ body {
 
 #footer { 
     position: relative;
-    width: 900px;
+    width: 1020px;
     padding: 0px;
-    top: 5%;
+    top: 2.5%;
 }
 
 .center img:first-child {
